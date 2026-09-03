@@ -67,6 +67,7 @@ h1 {
   color: hsl(216, 15%, 58%);
   margin: 0.5em 0;
   text-decoration: none;
+  display: none;
 }
 
 @media (max-width: 375px) {
